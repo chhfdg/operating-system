@@ -1,0 +1,6 @@
+  
+...program with C using First Come First Served technique with the following considerations.
+@@ -69,4 +69,3 @@ int main()
+	findavgTime(processes, n, burst_time);
+	return 0;
+}
